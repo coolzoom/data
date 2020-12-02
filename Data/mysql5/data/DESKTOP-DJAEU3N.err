@@ -1,0 +1,63 @@
+200325 15:11:44 [Note] Plugin 'FEDERATED' is disabled.
+200325 15:11:44 InnoDB: The InnoDB memory heap is disabled
+200325 15:11:44 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200325 15:11:44 InnoDB: Compressed tables use zlib 1.2.11
+200325 15:11:44 InnoDB: Initializing buffer pool, size = 128.0M
+200325 15:11:44 InnoDB: Completed initialization of buffer pool
+200325 15:11:44 InnoDB: highest supported file format is Barracuda.
+200325 15:11:44  InnoDB: Waiting for the background threads to start
+200325 15:11:45 InnoDB: 5.5.62 started; log sequence number 88877138
+200325 15:11:45 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+200325 15:11:46 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+200325 15:11:46 [Note] Server socket created on IP: '0.0.0.0'.
+200325 15:12:40 [Note] Plugin 'FEDERATED' is disabled.
+200325 15:12:40 InnoDB: The InnoDB memory heap is disabled
+200325 15:12:40 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200325 15:12:40 InnoDB: Compressed tables use zlib 1.2.11
+200325 15:12:40 InnoDB: Initializing buffer pool, size = 128.0M
+200325 15:12:40 InnoDB: Completed initialization of buffer pool
+200325 15:12:40 InnoDB: highest supported file format is Barracuda.
+200325 15:12:40  InnoDB: Waiting for the background threads to start
+200325 15:12:41 InnoDB: 5.5.62 started; log sequence number 88877138
+200325 15:12:41 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+200325 15:12:41 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+200325 15:12:41 [Note] Server socket created on IP: '0.0.0.0'.
+200325 15:12:41 [Note] Event Scheduler: Loaded 1 event
+200325 15:12:41 [Note] .\mysql5\bin\mysqld.exe: ready for connections.
+Version: '5.5.62'  socket: ''  port: 3306  MySQL Community Server (GPL)
+200325 15:13:13 [Note] Plugin 'FEDERATED' is disabled.
+200325 15:13:13 InnoDB: The InnoDB memory heap is disabled
+200325 15:13:13 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200325 15:13:13 InnoDB: Compressed tables use zlib 1.2.11
+200325 15:13:13 InnoDB: Initializing buffer pool, size = 128.0M
+200325 15:13:13 InnoDB: Completed initialization of buffer pool
+200325 15:13:13 InnoDB: highest supported file format is Barracuda.
+200325 15:13:13  InnoDB: Waiting for the background threads to start
+200325 15:13:14 InnoDB: 5.5.62 started; log sequence number 88877138
+200325 15:13:14 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+200325 15:13:14 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+200325 15:13:14 [Note] Server socket created on IP: '0.0.0.0'.
+200325 15:13:38 [Note] Plugin 'FEDERATED' is disabled.
+200325 15:13:38 InnoDB: The InnoDB memory heap is disabled
+200325 15:13:38 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200325 15:13:38 InnoDB: Compressed tables use zlib 1.2.11
+200325 15:13:38 InnoDB: Initializing buffer pool, size = 128.0M
+200325 15:13:38 InnoDB: Completed initialization of buffer pool
+200325 15:13:38 InnoDB: highest supported file format is Barracuda.
+200325 15:13:38  InnoDB: Waiting for the background threads to start
+200325 15:13:39 InnoDB: 5.5.62 started; log sequence number 88877138
+200325 15:13:39 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+200325 15:13:39 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+200325 15:13:39 [Note] Server socket created on IP: '0.0.0.0'.
+200325 15:14:25 [Note] Plugin 'FEDERATED' is disabled.
+200325 15:14:25 InnoDB: The InnoDB memory heap is disabled
+200325 15:14:25 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200325 15:14:25 InnoDB: Compressed tables use zlib 1.2.11
+200325 15:14:25 InnoDB: Initializing buffer pool, size = 128.0M
+200325 15:14:25 InnoDB: Completed initialization of buffer pool
+200325 15:14:25 InnoDB: highest supported file format is Barracuda.
+200325 15:14:25  InnoDB: Waiting for the background threads to start
+200325 15:14:26 InnoDB: 5.5.62 started; log sequence number 88877138
+200325 15:14:26 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+200325 15:14:26 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+200325 15:14:26 [Note] Server socket created on IP: '0.0.0.0'.
